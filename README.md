@@ -34,7 +34,7 @@ I have been using / learning (marked with *)...
 
 - Backend:
 <code><img title="Flask" alt="flask" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></code>
-<code><img title="FastAPI" alt="fastapi" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></code>
+<code><img title="FastAPI" alt="fastapi" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></code>*
 <code><img title="PostgreSQL" alt="postgresql" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></code>
 <code><img title="Docker" alt="docker" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></code>*
 
