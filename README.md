@@ -1,8 +1,8 @@
 ## Hello, I'm Qi. 🦄
 
-I'm a...
-- doctoral researcher in natural language processing (NLP) at the University of Konstanz
-- enthusiast of software development
+I'm...
+- a doctoral researcher in natural language processing (NLP) at the University of Konstanz
+- an enthusiast of software development
 
 Learn more about me at: https://qi-yu.github.io
 
