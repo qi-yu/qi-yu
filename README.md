@@ -10,7 +10,6 @@ Learn more about me at: https://qi-yu.github.io
 I have been using / learning (marked with *)... 
 
 - Programming Languages:
-
 <code><img title="Python" alt="python" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="TypeScript" alt="typescript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
@@ -19,14 +18,12 @@ I have been using / learning (marked with *)...
 <code><img title="Bash" alt="bash" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></code>
 
 - Machine Learning Frameworks:
-
 <code><img title="PyTorch" alt="pytorch" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></code>
 <code><img title="scikit-learn" alt="scikitlearn" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" /></code>
 <code><img title="TensorFlow" alt="tensorflow" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code>
 <code><img title="NumPy" alt="numpy" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></code>
 
 - Frontend:
-
 <code><img title="Angular" alt="angular" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" /></code>
 <code><img title="HTML 5" alt="html5" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="CSS 3" alt="css3" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
@@ -36,14 +33,12 @@ I have been using / learning (marked with *)...
 <code><img title="Cypress" alt="cypressio" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" /></code>
 
 - Backend:
-
 <code><img title="Flask" alt="flask" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></code>
 <code><img title="FastAPI" alt="fastapi" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></code>
 <code><img title="PostgreSQL" alt="postgresql" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></code>
 <code><img title="Docker" alt="docker" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></code>*
 
 - Version Control, Project Management, IDE:
-
 <code><img title="Git" alt="git" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="Azure DevOps" alt="azuredevops" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" /></code>*
 <code><img title="Jira" alt="jira" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /></code>*
