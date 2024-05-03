@@ -27,14 +27,17 @@ I have been using / learning (marked with *)...
 <code><img title="Angular" alt="angular" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" /></code>
 <code><img title="HTML 5" alt="html5" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="CSS 3" alt="css3" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+<code><img title="Sass" alt="sass" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></code>*
 <code><img title="npm" alt="npm" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
 <code><img title="Node.js" alt="nodejs" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+<code><img title="RxJS" alt="rxjs" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" /></code>
 <code><img title="Bootstrap" alt="bootstrap" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
 <code><img title="Cypress" alt="cypressio" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" /></code>
 
 - Backend:
 <code><img title="Flask" alt="flask" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></code>
 <code><img title="FastAPI" alt="fastapi" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></code>*
+<code><img title="Postman" alt="postman" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" /></code>*
 <code><img title="PostgreSQL" alt="postgresql" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></code>
 <code><img title="Docker" alt="docker" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></code>*
 
@@ -42,7 +45,8 @@ I have been using / learning (marked with *)...
 <code><img title="Git" alt="git" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="Azure DevOps" alt="azuredevops" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" /></code>*
 <code><img title="Jira" alt="jira" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /></code>*
-<code><img title="Visual Studio Code" alt="vscode" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="Jupyter" alt="jupyter" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /></code>
+<code><img title="Visual Studio Code" alt="vscode" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /></code>
 <code><img title="PyCharm" alt="pycharm" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /></code>
 <code><img title="IntelliJ" alt="intellij" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /></code>
 
