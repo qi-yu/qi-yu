@@ -45,7 +45,6 @@ I have been using / learning (marked with *)...
 <code><img title="Git" alt="git" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="Azure DevOps" alt="azuredevops" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" /></code>*
 <code><img title="Jira" alt="jira" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /></code>*
-<code><img title="Jupyter" alt="jupyter" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /></code>
 <code><img title="Visual Studio Code" alt="vscode" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /></code>
 <code><img title="PyCharm" alt="pycharm" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /></code>
 <code><img title="IntelliJ" alt="intellij" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /></code>
