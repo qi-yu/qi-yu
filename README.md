@@ -1,12 +1,9 @@
-## Hello, I'm Qi. 🦄
-
-I'm...
-- a doctoral researcher in natural language processing (NLP) at the University of Konstanz
-- an enthusiast of software development
+![Header](./header-image.png)
+<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://github.com/qi-yu/qi-yu/blob/main/header-image.png)" align="left" height="" width="450" />  
 
 Learn more about me at: https://qi-yu.github.io
 
-## My Tech Stacks ⚒️
+### My Tech Stacks ⚒️
 I have been using / learning (marked with *)... 
 
 - Programming Languages:
