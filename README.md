@@ -1,9 +1,9 @@
 ![Header](./header-image.png)
 <img src="[https://leviarista.github.io/github-profile-header-generator/](https://github.com/qi-yu/qi-yu/blob/main/header-image.png)" align="left" height="" width="450" />  
 
-Learn more about me at: https://qi-yu.github.io
+Homepage: https://qi-yu.github.io
 
-### My Tech Stacks ⚒️
+### My Tech Stacks 
 <code style="color: grey">(* = what I'm currently learning)</code>
 
 |                      |                       |
